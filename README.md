@@ -19,3 +19,6 @@ This thesis explores adherence in the context of long-term symptom monitoring an
 ## Repository Content
 
 The repository currently includes the thesis document:
+barbora_besedova_bachelor_thesis.pdf
+
+The data and source code cannot be shared publicly because they contain sensitive personal data of patients.
